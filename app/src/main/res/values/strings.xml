@@ -1,0 +1,10 @@
+<resources>
+    <string name="input_text">请输入翻译内容</string>
+    <string name="button1_text">翻 译</string>
+    <string name="button2_text">保 存</string>
+    <string name="button3_text">返 回</string>
+    <string name="app_name">词 典</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
