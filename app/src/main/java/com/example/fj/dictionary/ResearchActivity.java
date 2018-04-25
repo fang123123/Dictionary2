@@ -129,7 +129,7 @@ public class ResearchActivity extends AppCompatActivity {
                 conn.setRequestMethod("GET");
                 int statusCode = conn.getResponseCode();
                 if (statusCode != HttpURLConnection.HTTP_OK) {
-                    System.out.println("Http错误码：" + statusCode);
+                    Log.i("123","Http错误码：" + statusCode);
                 }
                 // 读取服务器的数据
                 InputStream is = conn.getInputStream();

@@ -4,7 +4,10 @@
     <string name="button2_text">保 存</string>
     <string name="button3_text">返 回</string>
     <string name="app_name">词 典</string>
-
+    <string name="main_button1">在线查词</string>
+    <string name="main_button2">本地词典</string>
+    <string name="main_Headbutton1">查单词</string>
+    <string name="main_Headbutton2">Search</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
